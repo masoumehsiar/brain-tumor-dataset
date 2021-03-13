@@ -3,9 +3,8 @@
 The images are in two folders: normal (0) and tumor (1).
 The number of normal images is 1121, and the number of tumor images is 982.
 
-The author of the article collects all these images. If you use this database, please refer to it. Thank you
+The author of the article collects all these images. Any use of this dataset which results in an academic publication or other publication which includes a bibliography should include a citation to our paper.
 
-Author's Email : m.siar@srbiau.ac.ir
 
 
 
@@ -19,3 +18,5 @@ Author's Email : m.siar@srbiau.ac.ir
   year={2019},
   organization={IEEE}
 }
+
+Author's Email : m.siar@srbiau.ac.ir
