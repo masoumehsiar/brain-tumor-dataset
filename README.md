@@ -9,7 +9,7 @@ The author of the article collects all these images. Any use of this dataset whi
 
 
 
-# tumor-brain-dataset
+# Tumor-brain-dataset
 @inproceedings{siar2019brain,
   title={Brain Tumor Detection Using Deep Neural Network and Machine Learning Algorithm},
   author={Siar, Masoumeh and Teshnehlab, Mohammad},
