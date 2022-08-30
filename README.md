@@ -19,8 +19,7 @@ The author of the article collects all these images. Any use of this dataset whi
   organization={IEEE}
 }
 
-Author's Email : m.siar@srbiau.ac.ir
-
+ 
 
 
 @article{siar2022combination,
@@ -33,3 +32,7 @@ Author's Email : m.siar@srbiau.ac.ir
   year={2022},
   publisher={Wiley Online Library}
 }
+
+
+Author's Email : m.siar@srbiau.ac.ir
+
