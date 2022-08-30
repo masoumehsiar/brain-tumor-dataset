@@ -20,3 +20,16 @@ The author of the article collects all these images. Any use of this dataset whi
 }
 
 Author's Email : m.siar@srbiau.ac.ir
+
+
+
+@article{siar2022combination,
+  title={A combination of feature extraction methods and deep learning for brain tumour classification},
+  author={Siar, Masoumeh and Teshnehlab, Mohammad},
+  journal={IET Image Processing},
+  volume={16},
+  number={2},
+  pages={416--441},
+  year={2022},
+  publisher={Wiley Online Library}
+}
