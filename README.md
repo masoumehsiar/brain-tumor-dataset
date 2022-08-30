@@ -1,4 +1,5 @@
 
+# Tumor-brain-dataset
 
 The images are in two folders: normal (0) and tumor (1).
 The number of normal images is 1121, and the number of tumor images is 811.
@@ -9,7 +10,8 @@ The author of the article collects all these images. Any use of this dataset whi
 
 
 
-# Tumor-brain-dataset
+# Reference
+
 @inproceedings{siar2019brain,
   title={Brain Tumor Detection Using Deep Neural Network and Machine Learning Algorithm},
   author={Siar, Masoumeh and Teshnehlab, Mohammad},
