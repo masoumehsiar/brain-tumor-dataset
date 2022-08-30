@@ -1,5 +1,5 @@
 
-# Tumor-brain-dataset
+# Brain tumor dataset
 
 The images are in two folders: normal (0) and tumor (1).
 The number of normal images is 1121, and the number of tumor images is 811.
