@@ -8,31 +8,14 @@ The author of the paper collects all these images. Any use of this dataset that 
 
 
 
-# Reference
-
-@inproceedings{siar2019brain,
-  title={Brain Tumor Detection Using Deep Neural Network and Machine Learning Algorithm},
-  author={Siar, Masoumeh and Teshnehlab, Mohammad},
-  booktitle={2019 9th International Conference on Computer and Knowledge Engineering (ICCKE)},
-  pages={363--368},
-  year={2019},
-  organization={IEEE}
-}
+ Reference
 
  
+ 
+1. [Siar M, Teshnehlab M, A combination of feature extraction methods and deep learning for brain tumour classification.](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12358) (IET Image Processing. 2022 Feb;16(2):416-41.)
+
+2. [Siar M, Teshnehlab M, Brain tumor detection using deep neural network and machine learning algorithm](https://ieeexplore.ieee.org/document/8964846) In2019 9th international conference on computer and knowledge engineering (ICCKE) 2019 Oct 24 (pp. 363-368). IEEE.
 
 
-@article{siar2022combination,
-  title={A combination of feature extraction methods and deep learning for brain tumour classification},
-  author={Siar, Masoumeh and Teshnehlab, Mohammad},
-  journal={IET Image Processing},
-  volume={16},
-  number={2},
-  pages={416--441},
-  year={2022},
-  publisher={Wiley Online Library}
-}
-
-
-Author's Email : m.siar@srbiau.ac.ir
+ 
 
